@@ -4,3 +4,4 @@
 -  👀 eu estou interessado em aprender a programar novas linguagens
 -  🌱 eu estou  aprendendo a programar recentemente a linguegem de javaScript e scratch
 
+
